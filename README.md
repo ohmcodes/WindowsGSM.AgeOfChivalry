@@ -7,11 +7,11 @@
 4. Drag WindowsGSM.Exe into previoulsy created folder and execute it.
 
 # Plugin Installation:
-1. Download [latest](https://github.com/ohmcodes/WindowsGSM.TheFront/releases/latest) release
+1. Download [latest](https://github.com/ohmcodes/WindowsGSM.AgeOfChivalry/releases/latest) release
 2. Extract then Move **AgeOfChivalry.cs** folder to **plugins** folder
 3. OR Press on the Puzzle Icon in the left bottom side and install this plugin by navigating to it and select the Zip File.
 4. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
-5. Navigate "Servers" and Click "Install Game Server" and find "TheFront Dedicated Server [AgeOfChivalry.cs]
+5. Navigate "Servers" and Click "Install Game Server" and find "Age Of Chivalry Dedicated Server [AgeOfChivalry.cs]
 
 ### UnOfficial Setup Documentation
 🗃️ https://kb.firedaemon.com/support/solutions/articles/4000086674-age-of-chivalry
